@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Estate R&eacuteel</title>
+        <title>4sale by owner</title>
         <link rel="stylesheet" type="text/css" href="CSS/mainLayout.css">
         <link rel="stylesheet" type="text/css" href="CSS/carouselLayout.css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

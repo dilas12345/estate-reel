@@ -1,6 +1,6 @@
     <body>
         <header>
-            <h1>Estate R&eacuteel</h1>
+            <h1>4Sale by owner</h1>
         </header>
 
         <?php
