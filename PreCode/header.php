@@ -1,6 +1,11 @@
     <body <?php body_class(); ?> data-offset="90" data-target=".navigation" data-spy="scroll" id="page-top">
         <header>
-            <h1>4Sale by owner</h1>
+			<h1>4Sale by owner</h1>
+			<meta charset="<?php bloginfo( 'charset' ); ?>">
+			<meta content="width=device-width, initial-scale=1.0" name="viewport">
+			<link rel="profile" href="http://gmpg.org/xfn/11">
+			<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+			<?php wp_head(); ?>
 		</header>
 		<div id="page" class="hfeed site wrapper">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'zoner-lite' ); ?></a>
