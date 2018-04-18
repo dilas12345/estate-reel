@@ -40,6 +40,20 @@ $wellArray = array (
     </form>
  <!--   //SLIDER HERE -->
 <div id='carousel_container'>  
+    <ul class="nav justify-content-center">
+    <li class="nav-item">
+        <a class="nav-link active" href="#">Active</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+    </li>
+    </ul>
 
     <div id='carousel_inner'>  
         <ul id='carousel_ul'>  
@@ -153,6 +167,10 @@ function slide(where){
             });  
   
 }   </script>
+
+<script>
+    
+</script>
 
 <!-- 
 ul/li structure can be replaced by any other html structure as div/div, div/span... 
